@@ -1,0 +1,28 @@
+body {
+	background: #eee;
+	font-size: 1.3em;
+}
+.utama {
+	width: 60%;
+	margin: 50px 20%;
+}
+h1, p {
+	text-align: center;
+}
+a, a:hover, a:link, a:active {
+	color: #000;
+	text-decoration: none;
+}
+figure {
+	text-align: center;
+	margin: 10px 0;
+	clear: both;
+}
+img {
+	border: solid 7px #eee;
+	border-radius: 5px;
+}
+img:hover {
+	border: solid 7px #ccc;
+	border-radius: 5px;
+}
